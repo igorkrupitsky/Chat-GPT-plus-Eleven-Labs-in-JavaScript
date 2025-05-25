@@ -2,6 +2,7 @@
 
 Web app to talk to Chat GPT using Eleven Labs text-to-speech
 
+Originally posted here on Mar 20, 2023:
 https://www.codeproject.com/Articles/5357186/Chat-GPT-plus-Eleven-Labs-in-JavaScript
 
 ## Introduction
